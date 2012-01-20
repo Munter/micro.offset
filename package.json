@@ -9,7 +9,7 @@
     "url": "git@github.com:Munter/micro.offset.git"
   },
   "engines": {
-    "node": "~0.4.11 || 0.4.11-pre"
+    "node": ">=0.4"
   },
   "dependencies": {},
   "devDependencies": {
