@@ -1,0 +1,18 @@
+{
+  "author": "Peter Müller <munter@fumle.dk> (http://fumle.dk)",
+  "name": "micro.offset",
+  "description": "A JS microlib to get the offset of a DOM element in the page",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Munter/micro.offset",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Munter/micro.offset.git"
+  },
+  "engines": {
+    "node": "~0.4.11 || 0.4.11-pre"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "uglify-js": ">=1.2.0"
+  }
+}
